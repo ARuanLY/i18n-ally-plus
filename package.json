@@ -1,8 +1,8 @@
 {
-  "publisher": "lokalise",
-  "name": "i18n-ally",
+  "publisher": "ARuanLY",
+  "name": "i18n-ally-plus",
   "version": "2.13.1",
-  "displayName": "i18n Ally",
+  "displayName": "i18n Ally Plus",
   "description": "🌍 All in one i18n extension for VS Code",
   "keywords": [
     "vue",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lokalise/i18n-ally"
+    "url": "https://github.com/ARuanLY/i18n-ally-plus"
   },
   "main": "./dist/extension",
   "scripts": {
@@ -168,8 +168,8 @@
     "onLanguage:svelte"
   ],
   "icon": "res/logo.png",
-  "homepage": "https://github.com/lokalise/i18n-ally",
-  "bugs": "https://github.com/lokalise/i18n-ally/issues",
+  "homepage": "https://github.com/ARuanLY/i18n-ally-plus",
+  "bugs": "https://github.com/ARuanLY/i18n-ally-plus/issues",
   "contributes": {
     "commands": [
       {
@@ -1242,12 +1242,12 @@
         "i18n-ally.extract.parsers.html": {
           "type": "object",
           "default": {},
-          "description": "Parser options for extracting HTML, see https://github.com/lokalise/i18n-ally/blob/master/src/extraction/parsers/options.ts"
+          "description": "Parser options for extracting HTML, see https://github.com/ARuanLY/i18n-ally/blob/master/src/extraction/parsers/options.ts"
         },
         "i18n-ally.extract.parsers.babel": {
           "type": "object",
           "default": {},
-          "description": "Parser options for extracting JS/TS/JSX/TSX, see https://github.com/lokalise/i18n-ally/blob/master/src/extraction/parsers/options.ts"
+          "description": "Parser options for extracting JS/TS/JSX/TSX, see https://github.com/ARuanLY/i18n-ally/blob/master/src/extraction/parsers/options.ts"
         },
         "i18n-ally.extract.autoDetect": {
           "type": "boolean",

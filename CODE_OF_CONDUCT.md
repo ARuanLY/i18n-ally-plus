@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Lokalise uses [Contributor Covenant
+ARuanLY uses [Contributor Covenant
 v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their
 code of conduct. The full text is included
 [below](#contributor-covenant-code-of-conduct) in English, and translations are
@@ -16,8 +16,8 @@ specific emails that can be used to report and escalate issues.
 
 ### Project Spaces
 
-For reporting issues in spaces related to Lokalise please use the email
-`support@lokalise.com`. Lokalise handles CoC issues
+For reporting issues in spaces related to ARuanLY please use the email
+`support@ARuanLY.com`. ARuanLY handles CoC issues
 related to the spaces that it maintains. Projects maintainers commit to:
 
 - maintain the confidentiality with regard to the reporter of an incident
